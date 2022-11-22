@@ -1,6 +1,6 @@
 [![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47arx7fzxy7fesinbn0uzk153ke9d5gjfvji2x0z8u&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Florence</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">I am a passionate full stack web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
