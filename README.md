@@ -1,8 +1,8 @@
-[![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47arx7fzxy7fesinbn0uzk153ke9d5gjfvji2x0z8u&rid=giphy.gif&ct=g)
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Florence</h1>
 <h3 align="center">I am a passionate full stack web developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47arx7fzxy7fesinbn0uzk153ke9d5gjfvji2x0z8u&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pursuit-florence&label=Profile%20views&color=0e75b6&style=flat" alt="pursuit-florence" /> </p>
 
