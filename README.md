@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Florence</h1>
-<h3 align="center">I am a passionate full stack web developer</h3>
+<h3 align="center">I am a passionate full stack web developer who loves to code and sole problems. I'm also open to learn and grow as a person</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzU776IVDcAWbcqpL7ynpqJgBRVMJ3HHvnjw&usqp=CAU">
 
