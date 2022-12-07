@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![MasterHead](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)
+<!-- ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif) -->
 <h1 align="center">Hi 👋, I'm Florence</h1>
 <h3 align="center">I am currently a fellow  with pursuit. Pursuit is a 12 months google funded software engineer fellowship with a 9% acceptance rate in fellows hired as developers at leading companies such as pinterest,JP Morgan and spotify</h3>
 
