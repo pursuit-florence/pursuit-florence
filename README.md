@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Florence</h1>
 <h3 align="center">I am currently a fellow  with pursuit. Pursuit is a 12 months google funded software engineer fellowship with a 9% acceptance rate in fellows hired as developers at leading companies such as pinterest,JP Morgan and spotify</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzU776IVDcAWbcqpL7ynpqJgBRVMJ3HHvnjw&usqp=CAU">
+<!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzU776IVDcAWbcqpL7ynpqJgBRVMJ3HHvnjw&usqp=CAU"> -->
+<img align="right" alt="Coding" width="400" src="https://microblink.com/wp-content/uploads/2021/04/header.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pursuit-florence&label=Profile%20views&color=0e75b6&style=flat" alt="pursuit-florence" /> </p>
 
